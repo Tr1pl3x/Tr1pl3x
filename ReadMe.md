@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤠 About Me:
 👋 Hey there! My name is Pyae Sone Oo and currently in the penultimate year of studying for a Bachelor of Engineering at UNSW. 
 
 I'm currently working on embedded systems using the Basys 3 board with Vivado, diving deep into VHDL programming. I'm always looking to collaborate with like-minded individuals who share my passion for tech and are eager to learn and grow within the industry. 🎯 Aside from tech, I'm a bit of a magician 🎩—I can pull off some cool magic tricks and cardistry routines (not quite a pro, but pretty good!). 🎥 Also, Feel free to ask me anything about photography—I'm super into cameras, lenses, and especially film photography lately. 📸 Let's connect and create something awesome together!
